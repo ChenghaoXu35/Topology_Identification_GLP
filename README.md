@@ -2,7 +2,7 @@
 
 This repository contains all datasets used in our under-review paper, including data files for: the `basic scenario` experiment, the `data length` experiment, the `measurement noise` experiment, the `regularization parameter` experiment, and the `partial meter observability` experiment.
 
-*Our paper is currently under review. The complete source code will be made open-source after the paper is accepted
+*Our paper is currently under review. The complete source code will be made open-source after the paper is accepted.
 
 ## Repository Contents
 
